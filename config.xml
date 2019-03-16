@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap = " http://phnegap.com/ns/1.0" id = "com.test.kpis" versionCode = "1" version = "1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phnegap.com/ns/1.0" id="com.test.kpis" versionCode="1" version="1.0.0">
 	<name>K-PIS</name>
 	<description>Test App</description>
 	<author href="https://www.kindergarten-pis.ml" email="mecindy@gmail.com">Cindy</author>
